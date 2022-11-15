@@ -7,6 +7,13 @@ const projects = [
     deploymentLink: 'https://filmingo-fantasy-films.netlify.app/'
   },
   {
+    title: 'Finch Collector',
+    description: "A stylized Finch Collector app built using Python and Django, allowing users to add and remove finches from their collection, feed them and give them toys.",
+    image: '/finchcollector.png',
+    repositoryLink: 'https://github.com/Metranohm/finch-collector',
+    deploymentLink: 'https://finch-collector-aw.herokuapp.com/'
+  },
+  {
     title: 'Austin Music Underground',
     description: "Austin Music Underground exists to bring attention to music spaces in Austin that cater to bands and fans with musical tastes that deviate from the norm",
     image: '/austinmusicunderground.png',
