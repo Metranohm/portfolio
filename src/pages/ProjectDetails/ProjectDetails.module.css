@@ -10,12 +10,12 @@
 }
 
 article {
-  padding: 0 0 0 800px;
+  /* padding: 0 0 0 800px; */
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  display: inline;
-  text-align: center;
+  display: flex;
+  justify-content: center;
   
 }
 
@@ -29,3 +29,7 @@ p {
 
 }
 
+.h1 {
+  color: rgb(143, 57, 57);
+  margin: auto;
+}

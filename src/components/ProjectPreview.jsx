@@ -7,16 +7,16 @@ function ProjectPreview(props) {
     console.log(projectPath)
     return (
         <Link to={projectPath}>
-            <div className={styles.container}>
-                <img 
+            <div className={styles.container} id="card">
+                <img id="image" className={styles.img}
                     src={props.project.image} 
                     alt={props.project.title}
                 />
                 <section>
-                    <h3>
+                    <h3 className={styles.h3}>
                         {props.project.title}
                     </h3>
-                    <h6>
+                    <h6 className={styles.h6}>
                         Built with {props.project.technology}
                     </h6>
                 </section>

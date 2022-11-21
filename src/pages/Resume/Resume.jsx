@@ -5,11 +5,11 @@ function Resume() {
   
   return (
     <>
-      <div className={styles.container}>
+      <div className={styles.link}>
       <Link to="Resume.pdf" target="_blank" download>Download my resume!</Link>
       </div>
-      <div>
-        <img src="https://i.postimg.cc/jjqxd5kS/Andrew-Winkler-Resume-1.png" className={styles.image} alt="resume" />
+      <div className={styles.image}>
+        <img src="https://i.postimg.cc/jjqxd5kS/Andrew-Winkler-Resume-1.png" alt="resume" />
       </div>
     </>
   )

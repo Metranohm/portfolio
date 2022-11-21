@@ -1,4 +1,13 @@
-.container {
+.link {
   padding-top: 150px;
   text-align: center;
+  font-size: 30px;
+  text-decoration: none;
+
 }
+
+.image {
+  vertical-align: top;
+}
+
+

@@ -9,7 +9,7 @@ function ProjectDetails() {
     return (
         <main>
             <section className={styles.section}>
-            <h1>{project.title}</h1>
+            <h1 className={styles.h1}>{project.title}</h1>
             <img 
                 src={project.image} 
                 alt={project.title}
@@ -33,6 +33,15 @@ function ProjectDetails() {
                 >
                     <button type="button" class="btn btn-primary">
                         View code
+                    </button>
+                </a>
+                <a 
+                    href='/projects'
+                    target='_blank'
+                    rel='noreferrer'
+                >
+                    <button type="button" class="btn btn-primary">
+                        Go Back
                     </button>
                 </a>
             </article> 

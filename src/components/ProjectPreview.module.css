@@ -3,11 +3,31 @@ text-align: center;
 padding-top: 20px;
 border: 1px solid white;
 /* justify-content: space-evenly; */
-max-width: 200px;
-max-height: 200px;
+height: 315px;
+width: 250px;
 color: white;
+justify-content: center;
+display: flex;
+display: inline-block;
 }
 
-h6, h6 {
+.container:hover {
+background-color: rgb(28, 20, 67);
+transition: background-color 0.5s;
+}
+
+.h3 {
   text-decoration: none;
+  font-size: 23px;
+  padding-top: 27px;
+}
+
+.h6 {
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.img {
+  height: 160px;
+  width: 90%;
 }
