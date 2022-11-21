@@ -9,6 +9,7 @@ color: #E5DCC5;
 justify-content: center;
 display: flex;
 display: inline-block;
+background-color: #0E1116;
 }
 
 .container:hover {

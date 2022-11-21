@@ -11,12 +11,12 @@
 
 article {
   /* padding: 0 0 0 800px; */
-  width: 50%;
+  width: 20%;
   margin-left: auto;
   margin-right: auto;
   display: flex;
-  justify-content: center;
-  
+  justify-content: space-around;
+ 
 }
 
 p {
@@ -26,7 +26,7 @@ p {
   margin-right: auto;
   display: block;
   background-color: #848FA5;
-  color: #E5DCC5;
+  color: black;
 
 }
 
