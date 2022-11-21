@@ -1,18 +1,18 @@
 .container {
 text-align: center;
 padding-top: 20px;
-border: 1px solid white;
+border: 1px solid #E5DCC5;
 /* justify-content: space-evenly; */
 height: 315px;
 width: 250px;
-color: white;
+color: #E5DCC5;
 justify-content: center;
 display: flex;
 display: inline-block;
 }
 
 .container:hover {
-background-color: rgb(33, 16, 120);
+background-color: #3F826D;
 transition: background-color 0.2s;
 }
 

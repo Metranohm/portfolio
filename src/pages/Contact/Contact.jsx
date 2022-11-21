@@ -6,9 +6,9 @@ function Contact() {
     <div className={styles.container}>
       <h2>Let's connect!  Send me an email and let's get the ball rolling</h2>
       <div className={styles.links}>
-      <a href="mailto:andrewwink@gmail.com" >Email Me</a>
-      <a href="https://github.com/Metranohm">My GitHub</a>
-      <a href="https://www.linkedin.com/in/andrewjwinkler1/">My LinkedIn</a>
+      <a className={styles.contact} href="mailto:andrewwink@gmail.com" >Email Me</a>
+      <a className={styles.contact} href="https://github.com/Metranohm">My GitHub</a>
+      <a className={styles.contact} href="https://www.linkedin.com/in/andrewjwinkler1/">My LinkedIn</a>
       </div>
       </div>
     </>
