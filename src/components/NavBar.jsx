@@ -39,13 +39,6 @@ return (
                     Resume
                 </Link>
             </li>
-            <li>
-                <Link
-                    to='/resume'
-                >
-                    Resume
-                </Link>
-            </li>
         </ul>
     </nav>
 )
