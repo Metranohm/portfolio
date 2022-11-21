@@ -17,7 +17,7 @@ function ProjectPreview(props) {
                         {props.project.title}
                     </h3>
                     <h6>
-                        Built with: {props.project.technology}
+                        Built with {props.project.technology}
                     </h6>
                 </section>
             </div>
