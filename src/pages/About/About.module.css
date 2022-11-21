@@ -5,6 +5,10 @@ img {
   display: block;
 }
 
+.pic {
+  padding-top: 80px;
+}
+
 p {
   text-align: center;
   width: 30%;
@@ -16,7 +20,8 @@ p {
 }
 
 div {
-  background-image: url("Backgrounda.jpeg");
+  /* background-image: url("Backgrounda.jpeg"); */
+  background-color: black;
   height: 100vh;
   width: 100%;
 }

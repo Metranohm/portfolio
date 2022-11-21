@@ -6,7 +6,7 @@ function About() {
     <>
     <div classname={styles.container}>
       
-      <img src={Headshot} alt="pic" class="center"/>
+      <img src={Headshot} alt="pic" className={styles.pic}/>
       <p>Hi I'm Andrew, I am a software engineer and musician drawn to innovations that ignite curiosity and creative solutions to bring order to the chaos. I seek to bridge the gap in the relationships between people, technology, and products by emphasizing creativity, empathy, and structural expertise.</p>
     </div>
     </>

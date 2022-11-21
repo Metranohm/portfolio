@@ -1,11 +1,12 @@
 import ProjectPreview from "./ProjectPreview";
+import styles from './ProjectList.module.css';
 
 function Projects(props) {
   return (
     <>
-      <ul>
+      <ul className={styles.container}>
         {props.projects.map((project) => (
-        <li>
+        <li className={styles.list}>
           <ProjectPreview project={project}/>
         </li>
         ))}

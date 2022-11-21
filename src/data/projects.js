@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "Filmingo",
-    description: "Filmingo is a web app built using the MERN stack and utilizing The Movie Database API, allowing users to search the database and add movies and actors to their favorites as well as switch up the cast members of movies to create their own dream movie casts.",
+    description: "Filmingo is a web app built using the MERN stack utilizing The Movie Database API, allowing users to search the database and add movies and actors to their favorites as well as switch up the cast members of movies to create their own dream movie casts.",
     image: '/filmingo.png',
     repositoryLink: 'https://github.com/KnucklesLT/fantasy-film-front-end.git',
     deploymentLink: 'https://filmingo-fantasy-films.netlify.app/'
