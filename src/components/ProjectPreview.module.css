@@ -12,22 +12,22 @@ display: inline-block;
 }
 
 .container:hover {
-background-color: rgb(28, 20, 67);
-transition: background-color 0.5s;
+background-color: rgb(33, 16, 120);
+transition: background-color 0.2s;
 }
 
 .h3 {
-  text-decoration: none;
-  font-size: 23px;
-  padding-top: 27px;
+text-decoration: none;
+font-size: 23px;
+padding-top: 27px;
 }
 
 .h6 {
-  text-decoration: none;
-  font-size: 14px;
+text-decoration: none;
+font-size: 14px;
 }
 
 .img {
-  height: 160px;
-  width: 90%;
+height: 160px;
+width: 90%;
 }
