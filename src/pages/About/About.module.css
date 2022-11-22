@@ -15,9 +15,12 @@ img {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  background-color: #848FA5;
+  background-color: #acb5c7;
   border-radius: 0px 0px 50px 50px;
   color: black;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 div {

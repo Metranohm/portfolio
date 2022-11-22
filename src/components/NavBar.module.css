@@ -9,11 +9,14 @@
   align-items: center;
   background-color: #8AC6D0;
   border-bottom: 1px solid rgb(200, 200, 200);
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 25px;
 }
 
 a {
   color: #545E75;
   text-decoration: none;
+  font-family: 'Rajdhani', sans-serif;
 
 }
 
@@ -31,13 +34,16 @@ a {
   font-weight: bold;
   align-items: center;
   justify-content: flex-end;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 .name {
-font-size: 1.5rem;
 width: 100%;
 display: block;
 text-align: left;
+font-family: 'Rajdhani', sans-serif;
+font-size: 35px;
+
 }
 
 .container li {

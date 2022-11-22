@@ -10,6 +10,7 @@ justify-content: center;
 display: flex;
 display: inline-block;
 background-color: #0E1116;
+font-family: 'Rajdhani', sans-serif;
 }
 
 .container:hover {
@@ -19,13 +20,15 @@ transition: background-color 0.2s;
 
 .h3 {
 text-decoration: none;
-font-size: 23px;
+font-size: 30px;
 padding-top: 27px;
+font-family: 'Rajdhani', sans-serif;
 }
 
 .h6 {
 text-decoration: none;
-font-size: 14px;
+font-size: 15px;
+font-family: 'Rajdhani', sans-serif;
 }
 
 .img {

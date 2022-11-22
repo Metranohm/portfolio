@@ -3,6 +3,7 @@
   display: flex;
   list-style: none;
   justify-content: space-evenly;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 /* .list {
