@@ -17,4 +17,8 @@
   padding-top: 100px;
 }
 
+buttonDiv {
+  display: flex;
+  justify-content: center;
+}
 
