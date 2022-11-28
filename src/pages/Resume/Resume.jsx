@@ -5,9 +5,9 @@ function Resume() {
   
   return (
     <>
-      <embed className={styles.image}>
+      <div className={styles.image}>
         <img src="https://i.postimg.cc/jjqxd5kS/Andrew-Winkler-Resume-1.png" alt="resume" />
-      </embed>
+      </div>
       <div className={styles.link}>
       <Link to="Resume.pdf" target="_blank" download>Download my resume!</Link>
       </div>
