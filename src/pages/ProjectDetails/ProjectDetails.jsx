@@ -10,7 +10,7 @@ function ProjectDetails() {
         <main>
             <section className={styles.section}>
             <h1 className={styles.h1}>{project.title}</h1>
-            <img 
+            <img className={styles.img2}
                 src={project.image} 
                 alt={project.title}
             />
