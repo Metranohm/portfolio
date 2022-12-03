@@ -19,7 +19,7 @@ article {
  
 }
 
-p {
+/* p {
   text-align: center;
   max-width: 576px;
   margin-left: auto;
@@ -27,8 +27,7 @@ p {
   display: block;
   background-color: #848FA5;
   color: black;
-
-}
+} */
 
 .h1 {
   color: rgb(143, 57, 57);

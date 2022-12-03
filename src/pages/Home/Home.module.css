@@ -1,5 +1,6 @@
 .container {
   text-align: center;
+  overflow: hidden;
 }
 
 .pic {
@@ -16,4 +17,9 @@
   border-radius: 0px 0px 50px 50px;
   font-family: 'Rajdhani', sans-serif;
   font-size: 40px;
+  overflow: hidden;
+}
+
+* {
+  overflow: hidden;
 }

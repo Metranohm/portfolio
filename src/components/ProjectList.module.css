@@ -4,6 +4,7 @@
   list-style: none;
   justify-content: space-evenly;
   font-family: 'Rajdhani', sans-serif;
+  overflow: hidden;
 }
 
 /* .list {
