@@ -60,3 +60,15 @@ font-size: 35px;
     font-size: 15px;
   }
 }
+
+@media only screen and (min-width: 768px) {
+  * {
+    /* tablet - two column display */
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 50px auto 30px;
+    grid-template-areas: 
+      "header header"
+      "side content"
+      "footer footer";
+  }
+}
