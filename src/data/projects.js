@@ -24,11 +24,18 @@ const projects = [
     repositoryLink: 'https://github.com/Metranohm/austin-music-underground.git',
     deploymentLink: 'https://austinmusicunderground.fly.dev/',
     technology: "Node.JS, Express, Mongo DB"
+  },{
+    title: 'React Calculator',
+    description: "This is a simple calculator app built in React and Bootstrap.  Credit to the tutorial by Web Dev Simplified.",
+    image: '/connect4.png',
+    repositoryLink: 'https://github.com/Metranohm/Connect-Four-Project',
+    deploymentLink: 'https://aw-react-calculator.netlify.app/',
+    technology: "React, Bootstrap, JS, CSS, HTML5"
   },
   {
     title: 'Connect-Four',
     description: "Connect Four is a classic 2 player game in which the goal is to get four of your pieces in a row. This version of the game has a vaporwave style and was built using HTML, CSS, and JavaScript.",
-    image: '/connect4.png',
+    image: '/react-calculator.png',
     repositoryLink: 'https://github.com/Metranohm/Connect-Four-Project',
     deploymentLink: 'https://peaceful-kashata-d078be.netlify.app/',
     technology: "JS, CSS, HTML5"
