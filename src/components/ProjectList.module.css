@@ -5,32 +5,7 @@
   justify-content: space-evenly;
   font-family: 'Rajdhani', sans-serif;
   overflow: hidden;
-}
-@media only screen and (max-width: 414px) {
-  .container ul {
-    padding-left: 0px;
-  }
-  .container li {
-    font-size: 15px;
-  }
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
-@media only screen and (min-width: 768px) {
-  * {
-    /* tablet - two column display */
-    grid-template-columns: 1fr 2fr;
-    grid-template-rows: 50px auto 30px;
-    grid-template-areas: 
-      "header header"
-      "side content"
-      "footer footer";
-  }
-}
-
-/* .list {
-  border: 1px solid black;
-  justify-content: space-evenly;
-  display: flex;
-  max-width: 300px;
-  max-height: 300px;
-} */
