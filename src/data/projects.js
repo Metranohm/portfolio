@@ -24,6 +24,13 @@ const projects = [
     repositoryLink: 'https://github.com/Metranohm/austin-music-underground.git',
     deploymentLink: 'https://austinmusicunderground.fly.dev/',
     technology: "Node.JS, Express, Mongo DB"
+  },{
+    title: 'React Calculator',
+    description: "This is a simple calculator app built in React and Bootstrap.  Credit to the tutorial by Web Dev Simplified.",
+    image: '/react-calculator.png',
+    repositoryLink: 'https://github.com/Metranohm/react-calculator',
+    deploymentLink: 'https://aw-react-calculator.netlify.app/',
+    technology: "React, Bootstrap, JS, CSS, HTML5"
   },
   {
     title: 'Connect-Four',
