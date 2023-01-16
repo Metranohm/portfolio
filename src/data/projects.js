@@ -32,20 +32,20 @@ const projects = [
     deploymentLink: 'https://aw-react-calculator.netlify.app/',
     technology: "React, Bootstrap, JS, CSS, HTML5"
   },{
-      title: 'Weather Tracker',
-      description: "The Museum of Candy website is an interactive experience that takes you on a tour through the history of candy. Built using HTML, JavaScript and Bootstrap CSS, the website offers a fun and engaging way to learn about the sweet treats we all love.",
-      image: '/weathertracker.png',
-      repositoryLink: 'https://github.com/Metranohm/weather-app',
-      deploymentLink: 'https://andrews-weather-app.netlify.app/',
-      technology: "Bootstrap, JS, CSS, HTML5",
-    },  // {
-  //   title: 'Museum of Candy',
-  //   description: "The Museum of Candy website is an interactive experience that takes you on a tour through the history of candy. Built using HTML, JavaScript and Bootstrap CSS, the website offers a fun and engaging way to learn about the sweet treats we all love.",
-  //   image: '/museumofcandy.png',
-  //   repositoryLink: 'https://github.com/Metranohm/museum-of-candy',
-  //   deploymentLink: 'https://aw-react-calculator.netlify.app/',
-  //   technology: "Bootstrap, JS, CSS, HTML5"
-  // },
+    title: 'Weather Tracker',
+    description: "The Weather Tracker is an app that utilizes a realtime weather API to provide accurate predictions based on where the user is logged in. The weather app was build using JavaScript, HTML & CSS.",
+    image: '/weathertracker.png',
+    repositoryLink: 'https://github.com/Metranohm/weather-app',
+    deploymentLink: 'https://andrews-weather-app.netlify.app/',
+    technology: "Bootstrap, JS, CSS, HTML5",
+    },{
+    title: 'Museum of Candy',
+    description: "The Museum of Candy website is an interactive experience that takes you on a tour through the history of candy. Built using HTML, JavaScript and Bootstrap CSS, the website offers a fun and engaging way to learn about the sweet treats we all love.",
+    image: '/museumofcandy.png',
+    repositoryLink: 'https://github.com/Metranohm/museum-of-candy',
+    deploymentLink: 'https://andrews-museum-of-candy.netlify.app/',
+    technology: "Bootstrap, JS, CSS, HTML5"
+    },
   {
     title: 'Connect-Four',
     description: "Connect Four is a classic 2 player game in which the goal is to get four of your pieces in a row. This version of the game has a vaporwave style and was built using HTML, CSS, and JavaScript.",
