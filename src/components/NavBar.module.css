@@ -53,16 +53,20 @@ font-size: 35px;
 }
 
 @media only screen and (max-width: 414px) {
-  .container ul {
-    padding-left: 0px;
-  }
-  .container li {
-    font-size: 15px;
+  .container {
+    display: flex;
+  list-style: none;
+  justify-content: space-between;
+  font-family: 'Rajdhani', sans-serif;
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 100px 20px 0 20px;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  * {
+  .container {
     /* tablet - two column display */
     grid-template-columns: 1fr 2fr;
     grid-template-rows: 50px auto 30px;
