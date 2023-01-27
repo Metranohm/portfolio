@@ -51,7 +51,7 @@ const projects = [
     description: "Connect Four is a classic 2 player game in which the goal is to get four of your pieces in a row. This version of the game has a vaporwave style and was built using HTML, CSS, and JavaScript.",
     image: '/connect4.png',
     repositoryLink: 'https://github.com/Metranohm/Connect-Four-Project',
-    deploymentLink: 'https://peaceful-kashata-d078be.netlify.app/',
+    deploymentLink: 'https://andrews-connectfour.netlify.app/',
     technology: "JS, CSS, HTML5"
   },
 ]

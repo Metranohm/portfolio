@@ -3,7 +3,7 @@ import styles  from './NavBar.module.css'
 
 function NavBar() {
 return (
-    <nav className={styles.container}>
+    <nav className={styles.container} navbar-expand-md>
         <Link className={styles.name}
         to='/'
         >
