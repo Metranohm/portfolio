@@ -27,7 +27,7 @@ return (
             </li>
             <li>
                 <Link
-                    to='/projects'
+                    to='/projects' className='projects-navLink'
                 >
                     Projects
                 </Link>
