@@ -6,7 +6,7 @@ function Home() {
     <>
     <div className={styles.container}>
       <img className={styles.pic} src={Headshot} alt="pic" />
-      <h3 class={styles.job}>Full-Stack Software Engineer</h3>
+      <h3 className={styles.job}>Full-Stack Software Engineer</h3>
       </div>
       </>
   )
