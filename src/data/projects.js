@@ -16,6 +16,13 @@ const projects = [
     repositoryLink: 'https://github.com/Metranohm/finch-collector',
     deploymentLink: 'https://finch-collector-aw.herokuapp.com/',
     technology: "Python & Django"
+  },{
+    title: 'JS Password Generator',
+    description: "This password generator app, built with JavaScript, CSS, and HTML, allows users to easily generate strong and secure passwords customized to their preferences, including length and character types. Its intuitive interface ensures that users can quickly generate and copy passwords, providing confidence in the security of their online accounts.",
+    image: '/passwordGenerator.png',
+    repositoryLink: 'https://github.com/Metranohm/JS-password-generator',
+    deploymentLink: 'https://andrews-js-password-generator.netlify.app/',
+    technology: "JS, CSS, HTML5"
   },
   {
     title: 'Austin Music Underground',
