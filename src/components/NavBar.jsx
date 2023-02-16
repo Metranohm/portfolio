@@ -4,7 +4,7 @@ import styles  from './NavBar.module.css'
 function NavBar() {
 return (
     <nav className={styles.container}>
-        <Link className={styles.name}
+        <Link className={styles.name} 
         to='/'
         >
             Andrew Winkler
