@@ -6,7 +6,7 @@ function Resume() {
   return (
     <>
       <div className={styles.image}>
-        <img src="https://i.postimg.cc/TPQx163r/Andrew-Winkler-Resume.png" alt="resume" />
+        <img src="https://i.postimg.cc/TPQx163r/Andrew-Winkler-Resume.png" Link to="Resume.pdf "alt="resume" />
       </div>
       <div className={styles.link}>
       <Link to="Resume.pdf" target="_blank" download>Download my resume!</Link>
