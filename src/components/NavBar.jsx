@@ -12,7 +12,7 @@ return (
         <ul>
             <li>
                 <Link
-                    to='/about'
+                    to='/about' id='about-navLink'
                 >
                     About
                 </Link>
@@ -20,21 +20,21 @@ return (
 
             <li>
                 <Link
-                    to='/contact'
+                    to='/contact' id='contact-navLink'
                 >
                     Contact
                 </Link>
             </li>
             <li>
                 <Link
-                    to='/projects' className='projects-navLink'
+                    to='/projects' id='projects-navLink'
                 >
                     Projects
                 </Link>
             </li>
             <li>
                 <Link
-                    to='/resume'
+                    to='/resume' id='resume-navLink'
                 >
                     Resume
                 </Link>
