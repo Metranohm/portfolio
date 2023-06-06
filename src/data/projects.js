@@ -3,15 +3,22 @@ import React from "react"
 const projects = [
   {
     title: "Filmingo - Fantasy Filmmaking",
-    description: "Filmingo is a web app built using the MERN stack utilizing The Movie Database API, allowing users to search the database and add movies and actors to their favorites as well as switch up the cast members of movies to create their own dream movie casts.",
+    description: "Filmingo is a captivating web application built on the MERN stack and powered by The Movie Database API. It offers users a seamless experience to explore an extensive movie database, curate personal collections of favorite films and actors, and unleash their creativity by assembling their dream movie casts.",
     image: '/filmingo.png',
     repositoryLink: 'https://github.com/KnucklesLT/fantasy-film-front-end.git',
     deploymentLink: 'https://filmingo-fantasy-films.netlify.app/',
     technology: "MERN Stack"
+  },{
+    title: 'YelpCamp',
+    description: "YelpCamp is a secure and feature-rich web application developed with Node.js, Express, and MongoDB. It provides users with a safe platform to explore, review, and geocode various campgrounds, showcasing the power of these technologies in creating an interactive and secure experience for the camping community.",
+    image: '/yelpcamp.png',
+    repositoryLink: 'https://github.com/Metranohm/yelpcamp',
+    deploymentLink: 'https://yelpcampajw.fly.dev/',
+    technology: "Node.JS, Express, Mongo DB"
   },
   {
     title: 'Finch Collector',
-    description: "A stylized Finch Collector app built using Python and Django, allowing users to add and remove finches from their collection, feed them and give them toys.",
+    description: "The Finch Collector app is a visually appealing application developed using Python and Django. It provides users with the ability to effortlessly manage their finch collection by adding or removing finches, as well as ensuring their well-being by feeding them and providing them with toys for enrichment.",
     image: '/finchcollector.png',
     repositoryLink: 'https://github.com/Metranohm/finch-collector',
     deploymentLink: 'https://finch-collector-aw.herokuapp.com/',
@@ -45,13 +52,6 @@ const projects = [
     repositoryLink: 'https://github.com/Metranohm/weather-app',
     deploymentLink: 'https://andrews-weather-app.netlify.app/',
     technology: "Bootstrap, JS, CSS, HTML5",
-    },{
-    title: 'Museum of Candy',
-    description: "The Museum of Candy website is an interactive experience that takes you on a tour through the history of candy. Built using HTML, JavaScript and Bootstrap CSS, the website offers a fun and engaging way to learn about the sweet treats we all love.",
-    image: '/museumofcandy.png',
-    repositoryLink: 'https://github.com/Metranohm/museum-of-candy',
-    deploymentLink: 'https://andrews-museum-of-candy.netlify.app/',
-    technology: "Bootstrap, JS, CSS, HTML5"
     },
   {
     title: 'Connect-Four',
